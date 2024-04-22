@@ -1,0 +1,18 @@
+Welcome to the Great Team Challenge Quiz!
+
+Instructions:
+- Try to answer all the questions below.
+- Use any resources you like to find the answers, but try to do it on your own!
+- When you're done, submit the form.
+
+Quiz Questions:
+1. If you could have any superpower at work, what would it be and why?
+2. Imagine our company as a movie character. Who would it be and why?
+3. What's one global issue you think our company should help solve?
+4. Write a haiku about your typical workday.
+5. What historical figure would make an excellent CEO for our industry?
+
+Bonus Creative Task:
+- Draw a simple diagram that represents "git workflow", take a picture or make it digitally, and include it in the bonus question section.
+
+Thank you for participating! Let’s have some fun and get creative.
