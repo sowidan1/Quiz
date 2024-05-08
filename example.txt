@@ -6,6 +6,8 @@ Instructions:
 - When you're done, submit the form.
 
 - osama here
+- Stashing Question 
+- Reverting Question
 
 Quiz Questions:
 1. If you could have any superpower at work, what would it be and why?
